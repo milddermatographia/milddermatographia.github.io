@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mild Dermatographia</title>
-    <link>https://milddermatographia.gitlab.io/</link>
+    <link>https://milddermatographia.github.io/</link>
     <description>Recent content on Mild Dermatographia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mild Dermatographia</copyright>
     
-	<atom:link href="https://milddermatographia.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://milddermatographia.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
