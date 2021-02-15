@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Mild Dermatographia</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 21:03:38 -0600</lastBuildDate><atom:link href="https://milddermatographia.com/blog/rant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2021 10:44:31 -0600</lastBuildDate><atom:link href="https://milddermatographia.com/blog/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scholarships</title>
+      <link>https://milddermatographia.com/scholarships/</link>
+      <pubDate>Sat, 13 Feb 2021 10:44:31 -0600</pubDate>
+      
+      <guid>https://milddermatographia.com/scholarships/</guid>
+      <description>Tuition at my university costed about $$10,000$ per year; a steal when compared to lofty American universities like Stanford ($$80,000$), not great when compared to other schools in Canada (around $$6,000-$8,000$), and downright criminal when compared to some European schools (free?). This cost was partially offset by a decent scholarship setup. My entry scholarship was worth $$4,000$ for every year of my degree. Since it was a 5 year degree, this effectively covered $$20,000$ of tuition, or about two-fifths the cost of my degree.</description>
+    </item>
+    
     <item>
       <title>Two-Factor Authentication</title>
       <link>https://milddermatographia.com/two-factor-authentication/</link>
