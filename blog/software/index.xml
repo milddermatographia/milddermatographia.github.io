@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Mild Dermatographia</title>
+    <link>https://milddermatographia.com/blog/software/</link>
+    <description>Recent content in software on Mild Dermatographia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Mild Dermatographia</copyright>
+    <lastBuildDate>Sat, 20 Feb 2021 21:54:35 -0600</lastBuildDate><atom:link href="https://milddermatographia.com/blog/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wanting to love Arch and SwayWM</title>
+      <link>https://milddermatographia.com/wanting-to-love-arch-and-swaywm/</link>
+      <pubDate>Sat, 20 Feb 2021 21:54:35 -0600</pubDate>
+      
+      <guid>https://milddermatographia.com/wanting-to-love-arch-and-swaywm/</guid>
+      <description>I originally wrote a long post about transitioning back from Arch to Ubuntu and how slow everything feels in comparison. I then reinstalled Arch and SwayWM, and couldn&amp;rsquo;t get Firefox to use Wayland, no matter where I placed MOZ_ENABLE_WAYLAND=1 or export MOZ_ENABLE_WAYLAND=1. XWayland programs were a blurry mess. I had managed to get everything working the first time around (sort of), but this time, no amount of DDG or Googling could work it out.</description>
+    </item>
+    
+  </channel>
+</rss>

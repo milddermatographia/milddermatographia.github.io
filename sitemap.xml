@@ -1,50 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://milddermatographia.com/blog/</loc>
-    <lastmod>2021-02-15T16:19:17-06:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-20T21:54:35-06:00</lastmod>
+  </url><url>
     <loc>https://milddermatographia.com/</loc>
-    <lastmod>2021-02-15T16:19:17-06:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-20T21:54:35-06:00</lastmod>
+  </url><url>
+    <loc>https://milddermatographia.com/blog/software/</loc>
+    <lastmod>2021-02-20T21:54:35-06:00</lastmod>
+  </url><url>
+    <loc>https://milddermatographia.com/wanting-to-love-arch-and-swaywm/</loc>
+    <lastmod>2021-02-20T21:54:35-06:00</lastmod>
+  </url><url>
     <loc>https://milddermatographia.com/blog/misc/</loc>
     <lastmod>2021-02-15T16:19:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://milddermatographia.com/the-hedonic-treadmill-is-wrong/</loc>
     <lastmod>2021-02-15T16:19:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://milddermatographia.com/blog/academia/</loc>
     <lastmod>2021-02-13T10:44:31-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://milddermatographia.com/blog/rant/</loc>
     <lastmod>2021-02-13T10:44:31-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://milddermatographia.com/scholarships/</loc>
     <lastmod>2021-02-13T10:44:31-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://milddermatographia.com/two-factor-authentication/</loc>
     <lastmod>2021-02-07T21:03:38-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://milddermatographia.com/a-retrospection-on-university/</loc>
     <lastmod>2021-01-23T17:31:07-06:00</lastmod>
   </url>
-  
 </urlset>

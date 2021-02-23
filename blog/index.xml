@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Mild Dermatographia</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 16:19:17 -0600</lastBuildDate><atom:link href="https://milddermatographia.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2021 21:54:35 -0600</lastBuildDate><atom:link href="https://milddermatographia.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wanting to love Arch and SwayWM</title>
+      <link>https://milddermatographia.com/wanting-to-love-arch-and-swaywm/</link>
+      <pubDate>Sat, 20 Feb 2021 21:54:35 -0600</pubDate>
+      
+      <guid>https://milddermatographia.com/wanting-to-love-arch-and-swaywm/</guid>
+      <description>I originally wrote a long post about transitioning back from Arch to Ubuntu and how slow everything feels in comparison. I then reinstalled Arch and SwayWM, and couldn&amp;rsquo;t get Firefox to use Wayland, no matter where I placed MOZ_ENABLE_WAYLAND=1 or export MOZ_ENABLE_WAYLAND=1. XWayland programs were a blurry mess. I had managed to get everything working the first time around (sort of), but this time, no amount of DDG or Googling could work it out.</description>
+    </item>
+    
     <item>
       <title>The Hedonic Treadmill is Wrong</title>
       <link>https://milddermatographia.com/the-hedonic-treadmill-is-wrong/</link>
