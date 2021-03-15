@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Mild Dermatographia</copyright>
-    <lastBuildDate>Tue, 09 Mar 2021 07:08:23 -0600</lastBuildDate><atom:link href="https://milddermatographia.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 08:52:57 -0600</lastBuildDate><atom:link href="https://milddermatographia.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Link Rot</title>
+      <link>https://milddermatographia.com/link-rot/</link>
+      <pubDate>Mon, 15 Mar 2021 08:52:57 -0600</pubDate>
+      
+      <guid>https://milddermatographia.com/link-rot/</guid>
+      <description>Have you ever opened an old bookmark only to find it doesn&amp;rsquo;t exist? Or read an article and tried to follow a link, only to get a 404 error? You&amp;rsquo;ve encountered link rot, the phenomenon where an older link is no longer valid; that web-page has effectively disappeared.
+It&amp;rsquo;s an unfortunate side-effect of how the internet functions. If someone restructures their website, an article which was previously at domain.com/article might now be at domain.</description>
+    </item>
+    
     <item>
       <title>The Prisoner&#39;s Dilemma for Politicians and Journalists</title>
       <link>https://milddermatographia.com/the-prisoners-dilemma-for-politicians-and-journalists/</link>
